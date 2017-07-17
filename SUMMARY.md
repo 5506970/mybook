@@ -9,5 +9,7 @@
 * [谁是真正的智者？](shui-shi-zhen-zheng-de-zhi-zhe-ff1f.md)
 * [经历是偏见与误解的良药](jing-li-shi-pian-jian-yu-wu-jie-de-liang-yao.md)
 * [加入华为，大有可为](jia-ru-hua-wei-ff0c-da-you-ke-wei.md)
-* [谁能盗走你的梦](shui-neng-dao-zou-ni-de-meng.md)
+* [第二章 追梦，开创，转身：快乐的奋斗](di-er-zhang-zhui-meng-ff0c-kai-chuang-ff0c-zhuan-shen-ff1a-kuai-le-de-fen-dou.md)
+* 谁能盗走你的梦
+* 屌丝可以逆袭吗
 
